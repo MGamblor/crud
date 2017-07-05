@@ -12,11 +12,11 @@ Simple CRUD (Create, Read, Update, Delete) application using HTML5, PHP, SQL, Bo
 
 *	Allow users to view house packages and their features
 *	Allow users to edit the name of a particular house package
-*	Create a new house packages
+*	Create a new house package
 *	Delete selected house packages
 *	Work on all size devices
 *	Be prompted before deleting a house record
-*	Handle basic errors including empty fields and errors communication with the database
+*	Handle basic errors including empty fields and errors with communication to the database
 *	Take security measures to prevent SQL Injection attacks
 
 ## Constraints
